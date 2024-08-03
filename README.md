@@ -12,12 +12,11 @@ At present, more than 50 % of the world’s population is dependent on rice for 
 
 2. ** Hispa** :- The lower epidermis of rice leaf blades is all that remains after rice Hispa scrapes the upper surface. It also burrows through the tissues of the leaves. Plants get weaker when damage is severe. The conditions that support the insect’s abundance include heavy rains, especially during the premonsoon or early monsoon periods, followed by abnormally little precipitation. Disease is shown in the following figure.
 
-
-![Hispa 1](https://github.com/user-attachments/assets/adbd7c49-5693-4cfc-9f76-3260e4b22154) ![Hispa 2](https://github.com/user-attachments/assets/79ee3049-49b3-4dda-ac55-d0eb069338d7)
+ ![Hispa 2](https://github.com/user-attachments/assets/79ee3049-49b3-4dda-ac55-d0eb069338d7)  ![Hispa 1](https://github.com/user-attachments/assets/adbd7c49-5693-4cfc-9f76-3260e4b22154)
 
 
 3. **Brown Spot**:- It has brown, small, and circular lesions. Fully formed lesions have an oval or circular shape, a light brown to grey centre, and a reddish brown edge brought on by the poison the fungi generate. High relative humidity of (86–100%) and temperatures between 16 and 36 °C are conducive to developing this disease. It frequently occurs in soils that are neither wet nor nourished. Disease is shown below.
-   ![Brown spot](https://github.com/user-attachments/assets/43c0315b-7a02-469a-ba14-a9bf72115d8c) ![Brown spot 2](https://github.com/user-attachments/assets/771977fc-1a0f-44f9-be18-3eb08fcc2b55)
+  ![Brown spot 2](https://github.com/user-attachments/assets/771977fc-1a0f-44f9-be18-3eb08fcc2b55)  ![Brown spot](https://github.com/user-attachments/assets/43c0315b-7a02-469a-ba14-a9bf72115d8c)
 
 ## Features
 - **Disease Detection**: Identifies and classifies 4 paddy leaf diseases i,e. Rice Leaf Blast, Brown Spot, Hispa, Normal  .
